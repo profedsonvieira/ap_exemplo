@@ -26,14 +26,17 @@ Ele permite o cadastro de livros, o controle de empréstimos e devoluções, al�
 
 ## 📁 Estrutura do Projeto
 
+```text
 ap_exemplo/
 ├── src/
-│ ├── biblioteca.py
-│ └── test_biblioteca.py
+│   ├── biblioteca.py
+│   └── test_biblioteca.py
 ├── venv/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
+
 
 
 
