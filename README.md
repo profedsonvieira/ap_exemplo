@@ -1,4 +1,4 @@
-# 📚 Sistema de Biblioteca Avançado
+# 📚 Sistema de Biblioteca Simples
 
 Um projeto em Python que simula o funcionamento de uma biblioteca, permitindo gerenciar livros, usuários e empréstimos. O sistema inclui tratamento de exceções, controle de disponibilidade e testes automatizados com **pytest**.
 
@@ -19,7 +19,7 @@ Um projeto em Python que simula o funcionamento de uma biblioteca, permitindo ge
 
 ## 🚀 Introdução
 
-O **Sistema de Biblioteca Avançado** foi desenvolvido para demonstrar conceitos de Programação Orientada a Objetos (POO), exceções personalizadas e testes automatizados em Python.  
+O **Sistema de Biblioteca Simples** foi desenvolvido para demonstrar conceitos de Programação Orientada a Objetos (POO), exceções personalizadas e testes automatizados em Python.  
 Ele permite o cadastro de livros, o controle de empréstimos e devoluções, além do tratamento de erros, como tentativa de empréstimo de livro indisponível ou ultrapassagem do limite de livros emprestados.
 
 ---
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 python main.py
 
 ## A saída esperada deve exibir um menu simples com a simulação do gerenciamento de uma biblioteca:
-=== SISTEMA BIBLIOTECA AVANÇADO ===
+=== SISTEMA BIBLIOTECA SIMPLES ===
 
 Livro emprestado com sucesso!
 Erro: LivroIndisponivelError
